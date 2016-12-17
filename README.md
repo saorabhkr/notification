@@ -18,7 +18,7 @@ A custom widget to enable notification.
   
 Options                           | Default Value                 | Description                               
  --------------------------------- |-----------------------------| -----------------------------------------
- notificationType                  | `info`                          | Can be shown for info or error            
+ notificationType                  | `info || error`                          | Can be shown for info or error            
  width                             | `400px`                         | Can be in % or in px                      
  height                            | `110px`                         | Default height                            
  notificationPosition              | `centerTop || centerBottom` | Only two options are there centerTop and centerBottm 
