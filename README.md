@@ -1,7 +1,7 @@
-# Notification UI widget
+## Notification UI widget
 A custom widget to enable notification.
 
-# Calling notification 
+### Calling notification 
 ```javascript
   $.fn.notificationWrapper({
     notificationType: "info",
@@ -14,7 +14,7 @@ A custom widget to enable notification.
   });
 ```
   
-# Defaults Options
+### Defaults Options
   
 Options                           | Default Value                 | Description                               
  --------------------------------- |-----------------------------| -----------------------------------------
